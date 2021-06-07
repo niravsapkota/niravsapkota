@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science and Engineering student.
 
-- I am currently learning some Web Development.
+- I am currently learning some Python.
 - I like watching sports.
 - I love reading books.
 - I am a Tech Enthusiast.
