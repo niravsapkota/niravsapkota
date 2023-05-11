@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science and Engineering student.
 
-- I am currently learning Machine Learning.
+- I am currently exploring Machine Learning.
 - I am a Tech Enthusiast.
 
 ### Connect with me:
