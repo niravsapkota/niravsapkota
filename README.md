@@ -15,11 +15,12 @@
 ### Languages and Tools:
 <img align="left" alt="JS" width="26px" src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500" />
 <img align="left" alt="React" width="26px" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" />
-<img align="left" alt="Node" width="26px" src="https://iconduck.com/icons/27728/node-js" />
+<img align="left" alt="Node" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/345px-Node.js_logo.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="python" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" />
 <img align="left" alt="django" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />
 <img align="left" alt="figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="go" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzjQAS0VjoLUFsVirkQyXK02uIx6u5lUZs11WwNQCUw&s" />
 
 <br />
 <br />
