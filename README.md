@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science and Engineering student.
 
-- I am currently exploring Machine Learning.
-- I am a Tech Enthusiast.
+- I am currently exploring GO.
+- I am interested in Cloud Computing.
 
 ### Connect with me:
 
