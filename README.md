@@ -1,9 +1,7 @@
 ### Hi there, I'm Nirav. 👋
 
-## I'm a Computer Science and Engineering student.
+## I'm a Computer Science and Engineering Graduate.
 
-- I am currently exploring GO.
-- I am interested in Cloud Computing.
 
 ### Connect with me:
 
